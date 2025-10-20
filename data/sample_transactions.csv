@@ -1,0 +1,6 @@
+tx_hash,timestamp,from_address,to_address,value,token,gas,method
+0xabc1,2025-01-01T10:00:00Z,0x111,0x222,0.5,ETH,21000,transfer
+0xabc2,2025-01-02T11:00:00Z,0x111,0x333,1.2,ETH,21000,swap
+0xabc3,2025-01-03T12:00:00Z,0x444,0x111,0.3,ETH,21000,transfer
+0xabc4,2025-01-03T12:30:00Z,0x555,0x666,0.9,ETH,21000,approve
+0xabc5,2025-01-04T13:00:00Z,0x111,0x222,0.1,ETH,21000,transfer
