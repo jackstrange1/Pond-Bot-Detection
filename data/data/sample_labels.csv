@@ -1,0 +1,7 @@
+wallet_id,label,label_source,confidence
+0x111,bot,manual,0.9
+0x222,human,manual,0.9
+0x333,human,manual,0.9
+0x444,human,manual,0.9
+0x555,bot,manual,0.8
+0x666,human,manual,0.8
